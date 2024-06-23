@@ -420,6 +420,11 @@ section{
         .about img{
             width: 52vw;
         }
+        .services-box{
+            align-items: center;
+            justify-content: center;
+            margin-right: 40px;
+        }
         .contact form{
             flex-direction: column;
         }
